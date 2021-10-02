@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Aroleap",
+    "slug": "Aroleap",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Aroleap"
+}
